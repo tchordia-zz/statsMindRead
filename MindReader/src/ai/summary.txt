@@ -1,0 +1,36 @@
+Summary for /www/javadecompilers/app/public/data/07.05.15/a4e8ae983da39854ae7c9690f1113198/mindreader.jar
+Decompiled with CFR 0_98
+
+
+processing.core.PApplet
+----------------------------
+
+loadImageTGA(java.lang.String )
+  Unable to fully structure code
+openStreamRaw(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [13[TRYBLOCK], 11[TRYBLOCK], 8[TRYBLOCK]], but top level block is 25[CATCHBLOCK]
+get()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[UNCONDITIONALDOLOOP]], but top level block is 1[CATCHBLOCK]
+
+
+processing.core.PGraphics
+----------------------------
+
+arc(float float float float float float )
+  Unable to fully structure code
+
+
+processing.core.PImage
+----------------------------
+
+dilate(boolean )
+  Unable to fully structure code
+saveTGA(java.io.OutputStream )
+  Unable to fully structure code
+
+
+processing.core.PPolygon
+----------------------------
+
+render()
+  Unable to fully structure code
